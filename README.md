@@ -46,3 +46,11 @@ jSnack 1:
 jSnack 2:
 - In questo codice, utilizziamo il metodo map() per creare un nuovo array con le informazioni richieste per ogni studente. Per ogni studente nell'array originale, estraiamo il nome, il cognome, la matricola e l'elenco dei voti. Calcoliamo la media dei voti utilizzando il metodo reduce(), quindi restituiamo un nuovo oggetto con le informazioni richieste.
 
+jSnack 4:
+- In questo codice, per la prima richiesta utilizziamo il metodo map() per creare un nuovo array con le targhe degli studenti, convertendo il loro nome in maiuscolo.
+
+- Per la seconda richiesta utilizziamo il metodo filter() per filtrare gli studenti che hanno un totale di voti superiore a 70, utilizzando il metodo reduce() per calcolare il totale dei voti.
+
+- Per la terza richiesta, applichiamo una condizione aggiuntiva alla funzione di filtro per controllare che l'id dello studente sia superiore a 120.
+
+jSnack 5:

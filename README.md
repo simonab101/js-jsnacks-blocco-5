@@ -54,3 +54,5 @@ jSnack 4:
 - Per la terza richiesta, applichiamo una condizione aggiuntiva alla funzione di filtro per controllare che l'id dello studente sia superiore a 120.
 
 jSnack 5:
+- In questo codice, ho creato l'array di oggetti "biciclette" con le proprietà "nome" e "peso". Successivamente, abbiamo utilizzato un ciclo for per confrontare i pesi di ogni bici e trovare quella più leggera. Dopo aver trovato la bici più leggera, abbiamo utilizzato la destructuring assignment per estrarre il nome e il peso della bici e li abbiamo stampati in console utilizzando un template literal.
+

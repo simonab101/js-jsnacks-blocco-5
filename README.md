@@ -38,3 +38,11 @@ BONUS 2
 Stampare in pagina oltre che in console!
 
 
+## Step da seguire: 
+jSnack 1:
+- In questo codice, utilizziamo il metodo filter() per filtrare gli utenti in base all'età e restituire gli utenti minori di 18 anni o maggiori di 65 anni.
+
+
+jSnack 2:
+- In questo codice, utilizziamo il metodo map() per creare un nuovo array con le informazioni richieste per ogni studente. Per ogni studente nell'array originale, estraiamo il nome, il cognome, la matricola e l'elenco dei voti. Calcoliamo la media dei voti utilizzando il metodo reduce(), quindi restituiamo un nuovo oggetto con le informazioni richieste.
+

@@ -54,5 +54,7 @@ jSnack 4:
 - Per la terza richiesta, applichiamo una condizione aggiuntiva alla funzione di filtro per controllare che l'id dello studente sia superiore a 120.
 
 jSnack 5:
-- In questo codice, ho creato l'array di oggetti "biciclette" con le proprietà "nome" e "peso". Successivamente, abbiamo utilizzato un ciclo for per confrontare i pesi di ogni bici e trovare quella più leggera. Dopo aver trovato la bici più leggera, abbiamo utilizzato la destructuring assignment per estrarre il nome e il peso della bici e li abbiamo stampati in console utilizzando un template literal.
+- In questo codice, ho creato l'array di oggetti "biciclette" con le proprietà "nome" e "peso". Successivamente, ho utilizzato un ciclo for per confrontare i pesi di ogni bici e trovare quella più leggera. Dopo aver trovato la bici più leggera, ho utilizzato la destructuring assignment per estrarre il nome e il peso della bici e li ho stampati in console utilizzando un template literal.
 
+jSnack 6:
+- In questo codice, ho creato l'array di oggetti "squadre" con le proprietà "nome", "puntiFatti" e "falliSubiti". Abbiamo utilizzato un ciclo for per generare numeri random per le proprietà "puntiFatti" e "falliSubiti" di ogni oggetto dell'array. Successivamente, ho creato un nuovo array "squadreNomiEFalli" utilizzando la destructuring per estrarre solo le proprietà "nome" e "falliSubiti" di ogni oggetto dell'array "squadre". Infine, ho stampato in console sia l'array di squadre originale che l'array di squadre con solo nomi e falli subiti.
